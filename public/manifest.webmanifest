@@ -1,0 +1,10 @@
+{
+  "name": "My Activity Tracker",
+  "short_name": "Activity Tracker",
+  "description": "Daily activities, reminders and progress tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#111111",
+  "orientation": "portrait"
+}
